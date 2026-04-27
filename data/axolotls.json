@@ -1,0 +1,835 @@
+[
+  {
+    "id": "axl-001",
+    "name": "Luna",
+    "morph": "Leucistic",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "52g",
+    "length": "19cm",
+    "description": "A stunning leucistic axolotl with brilliant pink gills and pearlescent white skin. Luna is an enthusiastic eater and highly interactive.",
+    "imageColor": "f9a8d4",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-05",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — healthy and active"
+      },
+      {
+        "date": "2024-02-05",
+        "weight": "16g",
+        "length": "8cm",
+        "notes": "Growing fast, eating bloodworms"
+      },
+      {
+        "date": "2024-03-05",
+        "weight": "34g",
+        "length": "14cm",
+        "notes": "Gills flourishing"
+      },
+      {
+        "date": "2024-04-05",
+        "weight": "52g",
+        "length": "19cm",
+        "notes": "Ready for reservation"
+      }
+    ],
+    "buyerName": "kevin",
+    "buyerEmail": "kevin@gmail.com",
+    "reservedDate": "2026-04-27"
+  },
+  {
+    "id": "axl-002",
+    "name": "Neptune",
+    "morph": "Wild Type",
+    "status": "Available",
+    "age": "5 months",
+    "weight": "68g",
+    "length": "22cm",
+    "description": "Classic wild-type coloring with beautiful olive-brown skin and gold flecks. Neptune has a calm temperament and loves to explore.",
+    "imageColor": "6b7280",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2023-12-10",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched — strong swimmer"
+      },
+      {
+        "date": "2024-01-10",
+        "weight": "20g",
+        "length": "9cm",
+        "notes": "Feeding well on pellets"
+      },
+      {
+        "date": "2024-02-10",
+        "weight": "42g",
+        "length": "15cm",
+        "notes": "Excellent health checkup"
+      },
+      {
+        "date": "2024-03-10",
+        "weight": "68g",
+        "length": "22cm",
+        "notes": "Thriving, ready for reservation"
+      }
+    ]
+  },
+  {
+    "id": "axl-003",
+    "name": "Solstice",
+    "morph": "Golden Albino",
+    "status": "Available",
+    "age": "4 months",
+    "weight": "48g",
+    "length": "18cm",
+    "description": "Rare golden albino with shimmering yellow-gold skin and red eyes. Solstice is gentle and loves interacting with her environment.",
+    "imageColor": "fbbf24",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-08",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — golden coloring visible early"
+      },
+      {
+        "date": "2024-02-08",
+        "weight": "15g",
+        "length": "7cm",
+        "notes": "Coloring intensifying beautifully"
+      },
+      {
+        "date": "2024-03-08",
+        "weight": "32g",
+        "length": "13cm",
+        "notes": "Perfectly healthy"
+      },
+      {
+        "date": "2024-04-08",
+        "weight": "48g",
+        "length": "18cm",
+        "notes": "Ready for her forever home"
+      }
+    ]
+  },
+  {
+    "id": "axl-004",
+    "name": "Pepper",
+    "morph": "Melanoid",
+    "status": "Available",
+    "age": "5 months",
+    "weight": "71g",
+    "length": "23cm",
+    "description": "Striking jet-black melanoid with dark purple gills. Pepper is bold, active, and one of our biggest personalities.",
+    "imageColor": "1e293b",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2023-12-15",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched — darkest of the clutch"
+      },
+      {
+        "date": "2024-01-15",
+        "weight": "22g",
+        "length": "9.5cm",
+        "notes": "Eating aggressively — great growth"
+      },
+      {
+        "date": "2024-02-15",
+        "weight": "46g",
+        "length": "17cm",
+        "notes": "Deep black coloring fully developed"
+      },
+      {
+        "date": "2024-03-15",
+        "weight": "71g",
+        "length": "23cm",
+        "notes": "Ready for reservation"
+      }
+    ]
+  },
+  {
+    "id": "axl-005",
+    "name": "Celestia",
+    "morph": "Leucistic Pink",
+    "status": "Available",
+    "age": "3 months",
+    "weight": "29g",
+    "length": "12cm",
+    "description": "Delicate pink-hued leucistic with exceptionally fluffy magenta gills. Celestia is playful and loves chasing worms.",
+    "imageColor": "fb7185",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-02-01",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — the rosiest of the litter"
+      },
+      {
+        "date": "2024-03-01",
+        "weight": "13g",
+        "length": "7cm",
+        "notes": "Pink hue deepening"
+      },
+      {
+        "date": "2024-04-01",
+        "weight": "29g",
+        "length": "12cm",
+        "notes": "Healthy and energetic"
+      }
+    ]
+  },
+  {
+    "id": "axl-006",
+    "name": "Cosmo",
+    "morph": "Copper",
+    "status": "Available",
+    "age": "4 months",
+    "weight": "55g",
+    "length": "20cm",
+    "description": "Gorgeous copper-toned morph with warm orange-brown tones and bright red gills. Cosmo is a show-stopper.",
+    "imageColor": "f97316",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-12",
+        "weight": "5g",
+        "length": "3cm",
+        "notes": "Hatched — copper hues visible"
+      },
+      {
+        "date": "2024-02-12",
+        "weight": "18g",
+        "length": "8cm",
+        "notes": "Developing beautiful copper tones"
+      },
+      {
+        "date": "2024-03-12",
+        "weight": "37g",
+        "length": "14cm",
+        "notes": "Gills turning vibrant red"
+      },
+      {
+        "date": "2024-04-12",
+        "weight": "55g",
+        "length": "20cm",
+        "notes": "Stunning specimen — ready!"
+      }
+    ]
+  },
+  {
+    "id": "axl-007",
+    "name": "Nimbus",
+    "morph": "Axanthic",
+    "status": "Available",
+    "age": "5 months",
+    "weight": "63g",
+    "length": "21cm",
+    "description": "Rare silver-grey axanthic morph with a cloudy, ethereal appearance. Nimbus floats through the water like a little ghost.",
+    "imageColor": "94a3b8",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2023-12-20",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched — silvery from day one"
+      },
+      {
+        "date": "2024-01-20",
+        "weight": "19g",
+        "length": "9cm",
+        "notes": "Grey tones deepening"
+      },
+      {
+        "date": "2024-02-20",
+        "weight": "40g",
+        "length": "16cm",
+        "notes": "Gorgeous silver sheen"
+      },
+      {
+        "date": "2024-03-20",
+        "weight": "63g",
+        "length": "21cm",
+        "notes": "Ready for reservation"
+      }
+    ]
+  },
+  {
+    "id": "axl-008",
+    "name": "Aurora",
+    "morph": "Golden Albino",
+    "status": "Available",
+    "age": "3 months",
+    "weight": "31g",
+    "length": "13cm",
+    "description": "Another beautiful golden albino, Aurora has especially vivid red eyes and a warm peachy-gold tone. Calm and photogenic.",
+    "imageColor": "fde68a",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-02-03",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — golden glow"
+      },
+      {
+        "date": "2024-03-03",
+        "weight": "14g",
+        "length": "7cm",
+        "notes": "Golden tones intensifying"
+      },
+      {
+        "date": "2024-04-03",
+        "weight": "31g",
+        "length": "13cm",
+        "notes": "Thriving and ready"
+      }
+    ]
+  },
+  {
+    "id": "axl-009",
+    "name": "Poseidon",
+    "morph": "Wild Type",
+    "status": "Available",
+    "age": "6 months",
+    "weight": "82g",
+    "length": "25cm",
+    "description": "Our biggest available axolotl — a large, healthy wild type with commanding presence. Poseidon is the king of the tank.",
+    "imageColor": "475569",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2023-11-01",
+        "weight": "6g",
+        "length": "4cm",
+        "notes": "Hatched — largest of the clutch"
+      },
+      {
+        "date": "2023-12-01",
+        "weight": "25g",
+        "length": "11cm",
+        "notes": "Growing fast — dominant feeder"
+      },
+      {
+        "date": "2024-01-01",
+        "weight": "52g",
+        "length": "19cm",
+        "notes": "Huge growth spurt"
+      },
+      {
+        "date": "2024-02-01",
+        "weight": "82g",
+        "length": "25cm",
+        "notes": "Fully mature, ready for reservation"
+      }
+    ]
+  },
+  {
+    "id": "axl-010",
+    "name": "Vesper",
+    "morph": "Melanoid",
+    "status": "Available",
+    "age": "4 months",
+    "weight": "49g",
+    "length": "18cm",
+    "description": "A sleek melanoid with subtle purple iridescence under light. Vesper is more shy than Pepper but loves watching her owners.",
+    "imageColor": "312e81",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-03",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — dark and curious"
+      },
+      {
+        "date": "2024-02-03",
+        "weight": "16g",
+        "length": "8cm",
+        "notes": "Purple sheen developing"
+      },
+      {
+        "date": "2024-03-03",
+        "weight": "33g",
+        "length": "13cm",
+        "notes": "Beautiful melanoid coloring"
+      },
+      {
+        "date": "2024-04-03",
+        "weight": "49g",
+        "length": "18cm",
+        "notes": "Ready for her forever home"
+      }
+    ]
+  },
+  {
+    "id": "axl-011",
+    "name": "Comet",
+    "morph": "Leucistic",
+    "status": "Available",
+    "age": "5 months",
+    "weight": "60g",
+    "length": "21cm",
+    "description": "A cheerful leucistic with extra-fluffy white gills and rosy cheeks. Comet loves worms and exploring tank decorations.",
+    "imageColor": "e2e8f0",
+    "videoNotes": [
+      {
+        "id": "vn-001",
+        "title": "Week 1 Update",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-03-22",
+        "description": "Comet is settling in beautifully — eating well and very active."
+      },
+      {
+        "id": "vn-002",
+        "title": "Growth Check — Month 5",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-04-10",
+        "description": "Comet hit 60g this week! Gills looking incredible."
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2023-12-01",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched"
+      },
+      {
+        "date": "2024-01-01",
+        "weight": "18g",
+        "length": "9cm",
+        "notes": "Growing steadily"
+      },
+      {
+        "date": "2024-02-01",
+        "weight": "38g",
+        "length": "16cm",
+        "notes": "Healthy and active"
+      },
+      {
+        "date": "2024-03-01",
+        "weight": "55g",
+        "length": "20cm",
+        "notes": "Reserved by Sarah!"
+      },
+      {
+        "date": "2024-04-01",
+        "weight": "60g",
+        "length": "21cm",
+        "notes": "Thriving in care"
+      }
+    ]
+  },
+  {
+    "id": "axl-012",
+    "name": "Tide",
+    "morph": "Wild Type",
+    "status": "Reserved",
+    "age": "5 months",
+    "weight": "65g",
+    "length": "22cm",
+    "description": "A mellow wild-type with rich olive tones. Tide is a zen axolotl — slow movements, big appetite.",
+    "buyerName": "Mike Chen",
+    "buyerEmail": "mike@example.com",
+    "reservedDate": "2024-03-20",
+    "imageColor": "78716c",
+    "videoNotes": [
+      {
+        "id": "vn-003",
+        "title": "Tide's First Month Video",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-04-05",
+        "description": "Tide is absolutely gorgeous — Mike is thrilled!"
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2023-12-05",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched"
+      },
+      {
+        "date": "2024-01-05",
+        "weight": "20g",
+        "length": "9cm",
+        "notes": "Solid growth"
+      },
+      {
+        "date": "2024-02-05",
+        "weight": "43g",
+        "length": "16cm",
+        "notes": "Healthy"
+      },
+      {
+        "date": "2024-03-05",
+        "weight": "65g",
+        "length": "22cm",
+        "notes": "Reserved by Mike!"
+      }
+    ]
+  },
+  {
+    "id": "axl-013",
+    "name": "Zephyr",
+    "morph": "Axanthic",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "51g",
+    "length": "19cm",
+    "description": "A wispy silver axanthic that drifts gracefully. Zephyr has an otherworldly appearance and a gentle temperament.",
+    "buyerName": "Emma Williams",
+    "buyerEmail": "emma@example.com",
+    "reservedDate": "2024-03-28",
+    "imageColor": "cbd5e1",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-10",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched"
+      },
+      {
+        "date": "2024-02-10",
+        "weight": "17g",
+        "length": "8cm",
+        "notes": "Silver sheen visible"
+      },
+      {
+        "date": "2024-03-10",
+        "weight": "38g",
+        "length": "14cm",
+        "notes": "Growing well"
+      },
+      {
+        "date": "2024-04-10",
+        "weight": "51g",
+        "length": "19cm",
+        "notes": "Reserved by Emma!"
+      }
+    ]
+  },
+  {
+    "id": "axl-014",
+    "name": "Splash",
+    "morph": "Leucistic",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "47g",
+    "length": "18cm",
+    "description": "An energetic leucistic that literally splashes at feeding time. Splash has the most personality of any axolotl in our reserve.",
+    "buyerName": "David Kim",
+    "buyerEmail": "david@example.com",
+    "reservedDate": "2024-04-01",
+    "imageColor": "bae6fd",
+    "videoNotes": [
+      {
+        "id": "vn-004",
+        "title": "Splash's Feeding Frenzy",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-04-08",
+        "description": "Watch Splash go absolutely wild at feeding time — David captured it perfectly!"
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2024-01-15",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — immediately active"
+      },
+      {
+        "date": "2024-02-15",
+        "weight": "15g",
+        "length": "7cm",
+        "notes": "Already splashing at feeding"
+      },
+      {
+        "date": "2024-03-15",
+        "weight": "32g",
+        "length": "13cm",
+        "notes": "The energetic one"
+      },
+      {
+        "date": "2024-04-15",
+        "weight": "47g",
+        "length": "18cm",
+        "notes": "Reserved by David!"
+      }
+    ]
+  },
+  {
+    "id": "axl-015",
+    "name": "Mochi",
+    "morph": "Golden Albino",
+    "status": "Reserved",
+    "age": "3 months",
+    "weight": "28g",
+    "length": "12cm",
+    "description": "A soft, round golden albino that looks exactly like its namesake. Mochi is sweet-natured and loves resting on decorations.",
+    "buyerName": "Jennifer Lee",
+    "buyerEmail": "jennifer@example.com",
+    "reservedDate": "2024-04-05",
+    "imageColor": "fef08a",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-02-08",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — round and golden"
+      },
+      {
+        "date": "2024-03-08",
+        "weight": "13g",
+        "length": "7cm",
+        "notes": "Getting rounder 🍡"
+      },
+      {
+        "date": "2024-04-08",
+        "weight": "28g",
+        "length": "12cm",
+        "notes": "Reserved by Jennifer!"
+      }
+    ]
+  },
+  {
+    "id": "axl-016",
+    "name": "Bubbles",
+    "morph": "Leucistic Pink",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "45g",
+    "length": "17cm",
+    "description": "A bubbly, expressive leucistic pink that blows bubbles when excited. Bubbles is an instant crowd-pleaser.",
+    "buyerName": "Chris Taylor",
+    "buyerEmail": "chris@example.com",
+    "reservedDate": "2024-04-08",
+    "imageColor": "f9a8d4",
+    "videoNotes": [
+      {
+        "id": "vn-005",
+        "title": "Bubble Blowing!",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-04-15",
+        "description": "Bubbles doing the thing that gave them their name. So cute!"
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2024-01-18",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — pink from day one"
+      },
+      {
+        "date": "2024-02-18",
+        "weight": "15g",
+        "length": "8cm",
+        "notes": "Bubble behavior starting"
+      },
+      {
+        "date": "2024-03-18",
+        "weight": "30g",
+        "length": "13cm",
+        "notes": "Personality shining"
+      },
+      {
+        "date": "2024-04-18",
+        "weight": "45g",
+        "length": "17cm",
+        "notes": "Reserved by Chris!"
+      }
+    ]
+  },
+  {
+    "id": "axl-017",
+    "name": "Indigo",
+    "morph": "Melanoid",
+    "status": "Reserved",
+    "age": "5 months",
+    "weight": "66g",
+    "length": "22cm",
+    "description": "A deep midnight-black melanoid with hints of indigo under blue light. Mysterious and beautiful.",
+    "buyerName": "Amanda Garcia",
+    "buyerEmail": "amanda@example.com",
+    "reservedDate": "2024-03-10",
+    "imageColor": "4338ca",
+    "videoNotes": [
+      {
+        "id": "vn-006",
+        "title": "Indigo Under Blue Light",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-03-25",
+        "description": "The iridescent blue highlights in Indigo's scales are breathtaking under UV."
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2023-12-12",
+        "weight": "5g",
+        "length": "3.5cm",
+        "notes": "Hatched — dark from the start"
+      },
+      {
+        "date": "2024-01-12",
+        "weight": "20g",
+        "length": "9cm",
+        "notes": "Deep indigo hue emerging"
+      },
+      {
+        "date": "2024-02-12",
+        "weight": "44g",
+        "length": "17cm",
+        "notes": "Stunning coloring"
+      },
+      {
+        "date": "2024-03-12",
+        "weight": "66g",
+        "length": "22cm",
+        "notes": "Reserved by Amanda!"
+      }
+    ]
+  },
+  {
+    "id": "axl-018",
+    "name": "Coral",
+    "morph": "Copper",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "53g",
+    "length": "19cm",
+    "description": "A warm coral-copper morph with vivid orange-tipped gills. Coral is named for both color and her love of decorative coral in the tank.",
+    "buyerName": "Ryan Martinez",
+    "buyerEmail": "ryan@example.com",
+    "reservedDate": "2024-04-02",
+    "imageColor": "fb923c",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-20",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — warm orange tones"
+      },
+      {
+        "date": "2024-02-20",
+        "weight": "17g",
+        "length": "8cm",
+        "notes": "Copper deepening"
+      },
+      {
+        "date": "2024-03-20",
+        "weight": "35g",
+        "length": "14cm",
+        "notes": "Gills turning vivid orange"
+      },
+      {
+        "date": "2024-04-20",
+        "weight": "53g",
+        "length": "19cm",
+        "notes": "Reserved by Ryan!"
+      }
+    ]
+  },
+  {
+    "id": "axl-019",
+    "name": "Drift",
+    "morph": "Wild Type",
+    "status": "Reserved",
+    "age": "6 months",
+    "weight": "79g",
+    "length": "24cm",
+    "description": "A large, laid-back wild type that drifts around the tank in slow motion. Drift is a calming presence and loves hiding in plants.",
+    "buyerName": "Lisa Anderson",
+    "buyerEmail": "lisa@example.com",
+    "reservedDate": "2024-03-05",
+    "imageColor": "57534e",
+    "videoNotes": [
+      {
+        "id": "vn-007",
+        "title": "Drift's Zen Moment",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "date": "2024-03-20",
+        "description": "Two minutes of pure relaxation watching Drift float through the plants."
+      }
+    ],
+    "growthTimeline": [
+      {
+        "date": "2023-11-15",
+        "weight": "6g",
+        "length": "4cm",
+        "notes": "Hatched — already chilled"
+      },
+      {
+        "date": "2023-12-15",
+        "weight": "23g",
+        "length": "10cm",
+        "notes": "Slow and steady"
+      },
+      {
+        "date": "2024-01-15",
+        "weight": "49g",
+        "length": "18cm",
+        "notes": "Healthy growth"
+      },
+      {
+        "date": "2024-02-15",
+        "weight": "79g",
+        "length": "24cm",
+        "notes": "Reserved by Lisa!"
+      }
+    ]
+  },
+  {
+    "id": "axl-020",
+    "name": "Pebble",
+    "morph": "Axanthic",
+    "status": "Reserved",
+    "age": "4 months",
+    "weight": "44g",
+    "length": "17cm",
+    "description": "A smooth, rounded axanthic that resembles a river pebble in its tank. Pebble is quiet and content, happy to sit still for hours.",
+    "buyerName": "James Wilson",
+    "buyerEmail": "james@example.com",
+    "reservedDate": "2024-04-10",
+    "imageColor": "d1d5db",
+    "videoNotes": [],
+    "growthTimeline": [
+      {
+        "date": "2024-01-22",
+        "weight": "4g",
+        "length": "3cm",
+        "notes": "Hatched — grey from the start"
+      },
+      {
+        "date": "2024-02-22",
+        "weight": "15g",
+        "length": "8cm",
+        "notes": "Pebble-smooth and healthy"
+      },
+      {
+        "date": "2024-03-22",
+        "weight": "30g",
+        "length": "13cm",
+        "notes": "Great growth rate"
+      },
+      {
+        "date": "2024-04-22",
+        "weight": "44g",
+        "length": "17cm",
+        "notes": "Reserved by James!"
+      }
+    ]
+  }
+]
