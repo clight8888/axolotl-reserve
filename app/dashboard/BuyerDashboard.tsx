@@ -2,7 +2,6 @@
 
 import { signOut } from 'next-auth/react'
 import { Axolotl } from '@/types'
-import AxolotlIcon from '@/app/components/AxolotlIcon'
 
 interface Props {
   axolotl: Axolotl
@@ -32,15 +31,14 @@ export default function BuyerDashboard({ axolotl, buyerName }: Props) {
         <div className="lg:col-span-1">
           <div className="card overflow-hidden">
             <div
-              className="h-48 flex items-center justify-center"
+              className="h-48 overflow-hidden"
               style={{ backgroundColor: `#${axolotl.imageColor}20`, borderBottom: `4px solid #${axolotl.imageColor}` }}
             >
-              <div className="text-center flex flex-col items-center">
-                <AxolotlIcon size={72} />
-                <p className="text-sm font-semibold mt-2" style={{ color: `#${axolotl.imageColor}` }}>
-                  {axolotl.name}
-                </p>
-              </div>
+              <img
+                src="/images/real-axolotl.jpg"
+                alt={`${axolotl.name} the axolotl`}
+                className="h-full w-full object-cover"
+              />
             </div>
             <div className="p-4">
               <div className="flex items-center justify-between mb-2">

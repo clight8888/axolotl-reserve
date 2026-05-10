@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import { Axolotl } from '@/types'
-import AxolotlIcon from './AxolotlIcon'
 
 interface Props {
   axolotl: Axolotl
@@ -11,14 +10,16 @@ export default function AxolotlCard({ axolotl }: Props) {
 
   return (
     <div className="card flex flex-col hover:shadow-md transition-shadow duration-200">
-      {/* Photo placeholder */}
+      {/* Photo */}
       <div
-        className="h-48 flex items-center justify-center text-6xl relative"
+        className="h-48 relative overflow-hidden"
         style={{ backgroundColor: `#${axolotl.imageColor}20`, borderBottom: `4px solid #${axolotl.imageColor}` }}
       >
-        <div className="text-center flex flex-col items-center">
-          <AxolotlIcon size={72} />
-        </div>
+        <img
+          src="/images/real-axolotl.jpg"
+          alt={`${axolotl.name} the axolotl`}
+          className="h-full w-full object-cover"
+        />
         <div className="absolute top-3 right-3">
           {isAvailable ? (
             <span className="badge-available">● Available</span>

@@ -1,6 +1,5 @@
 import { readAxolotls } from '@/lib/data'
 import AxolotlCard from './components/AxolotlCard'
-import AxolotlIcon from './components/AxolotlIcon'
 
 export const dynamic = 'force-dynamic'
 
@@ -14,8 +13,12 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-gradient-to-br from-teal-700 via-teal-600 to-cyan-500 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-          <div className="flex justify-center mb-4">
-            <AxolotlIcon size={80} />
+          <div className="flex justify-center mb-5">
+            <img
+              src="/images/real-axolotl.jpg"
+              alt="A real axolotl"
+              className="h-28 w-28 rounded-full border-4 border-white/70 object-cover shadow-lg sm:h-32 sm:w-32"
+            />
           </div>
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight">
             Welcome to Axolotl Reserve
