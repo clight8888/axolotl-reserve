@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { Axolotl } from '@/types'
+import AxolotlIcon from '@/app/components/AxolotlIcon'
 
 interface Props {
   axolotls: Axolotl[]
@@ -66,7 +67,7 @@ export default function ReserveForm({ axolotls, preselectedId }: Props) {
         </select>
         {selected && (
           <div className="mt-3 p-3 bg-teal-50 border border-teal-100 rounded-lg flex gap-3 items-start">
-            <div className="text-3xl">🦎</div>
+            <AxolotlIcon size={40} />
             <div>
               <p className="font-semibold text-teal-800">{selected.name}</p>
               <p className="text-xs text-teal-600">{selected.description}</p>
