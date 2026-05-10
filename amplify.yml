@@ -3,7 +3,8 @@ frontend:
   phases:
     preBuild:
       commands:
-        - npm ci
+        - nvm use 20 || true
+        - npm ci --no-audit --no-fund
     build:
       commands:
         - npm run build
@@ -14,4 +15,4 @@ frontend:
   cache:
     paths:
       - .next/cache/**/*
-      - node_modules/**/*
+      - ~/.npm/**/*
