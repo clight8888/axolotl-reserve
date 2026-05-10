@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { Axolotl } from '@/types'
+import AxolotlImage from './AxolotlImage'
 
 interface Props {
   axolotl: Axolotl
@@ -15,11 +16,7 @@ export default function AxolotlCard({ axolotl }: Props) {
         className="h-48 relative overflow-hidden"
         style={{ backgroundColor: `#${axolotl.imageColor}20`, borderBottom: `4px solid #${axolotl.imageColor}` }}
       >
-        <img
-          src="/images/real-axolotl.jpg"
-          alt={`${axolotl.name} the axolotl`}
-          className="h-full w-full object-cover"
-        />
+        <AxolotlImage axolotl={axolotl} />
         <div className="absolute top-3 right-3">
           {isAvailable ? (
             <span className="badge-available">● Available</span>

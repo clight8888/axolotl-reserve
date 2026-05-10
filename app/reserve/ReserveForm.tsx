@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { Axolotl } from '@/types'
+import AxolotlImage from '@/app/components/AxolotlImage'
 
 interface Props {
   axolotls: Axolotl[]
@@ -66,11 +67,14 @@ export default function ReserveForm({ axolotls, preselectedId }: Props) {
         </select>
         {selected && (
           <div className="mt-3 p-3 bg-teal-50 border border-teal-100 rounded-lg flex gap-3 items-start">
-            <img
-              src="/images/real-axolotl.jpg"
-              alt={`${selected.name} the axolotl`}
-              className="h-12 w-12 rounded-lg object-cover shadow-sm"
-            />
+            <div className="h-12 w-12 flex-shrink-0 overflow-hidden rounded-lg bg-white/70 shadow-sm">
+              <AxolotlImage
+                axolotl={selected}
+                className="h-full w-full object-cover"
+                iconSize={32}
+                showUnavailableText={false}
+              />
+            </div>
             <div>
               <p className="font-semibold text-teal-800">{selected.name}</p>
               <p className="text-xs text-teal-600">{selected.description}</p>

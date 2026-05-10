@@ -12,7 +12,7 @@ Next.js app for an Axolotl Reserve demo site. Deploys from `main` to AWS Amplify
 - Replaced emoji placeholders with `AxolotlIcon` in buyer dashboard and reserve form.
 - Added `amplify.yml` for Amplify SSR deployment and auth env export during build.
 - Improved mobile navigation in `app/components/Navbar.tsx` so menu items fit on iPhone.
-- Added Master's real axolotl image at `public/images/real-axolotl.jpg` and started wiring it into the homepage, inventory cards, and buyer dashboard.
+- Added Master's real axolotl image at `public/images/real-axolotl.jpg` as an optional per-axolotl image reference. `types/index.ts` now supports `imageUrl?: string`; `data/axolotls.json` uses it for Luna only. Components should show `AxolotlImage`, which falls back to the cartoon icon plus “Image unavailable” when no image is set.
 
 ## Deployment Notes
 

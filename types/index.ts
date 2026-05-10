@@ -25,6 +25,7 @@ export interface Axolotl {
   buyerName?: string
   buyerEmail?: string
   reservedDate?: string
+  imageUrl?: string
   imageColor: string
   videoNotes: VideoNote[]
   growthTimeline: GrowthEntry[]
